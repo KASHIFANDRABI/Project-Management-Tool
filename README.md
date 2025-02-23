@@ -9,7 +9,7 @@ To run this project locally, follow these steps:
 
 1. Clone this repository to your local machine:
    
-git clone [<repository-url>](https://github.com/arjungautam1/Signin-Signup.git)https://github.com/arjungautam1/Signin-Signup.git
+git clone [<repository-url>]([https://github.com/arjungautam1/Signin-Signup.git](https://github.com/KASHIFANDRABI/Project-Management-Tool.git))[https://github.com/arjungautam1/Signin-Signup.git](https://github.com/KASHIFANDRABI/Project-Management-Tool.git)
 
 2. npm install
 3. npm start 
